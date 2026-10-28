@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Redcat is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://redcat.com.au/
+Redcat provides a hospitality IT platform offering digital ordering, loyalty, delivery, and operational tools for restaurants and cafes. Their solutions include online and kiosk ordering, QR code table ordering, virtual brands, drive‑thru, catering, POS‑less ordering, delivery partner integration, flat‑fee delivery, loyalty programs, mobile apps, digital media boards, gift‑card sales, and comprehensive reporting dashboards. The platform serves fast‑casual, QSR, franchise and restaurant‑group sectors across Australia and New Zealand, helping businesses streamline ordering, marketing, and back‑office operations.
+
+**Areas:** Hospitality · RestaurantTech · Ordering · Loyalty · Delivery
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.redcatht.com/en-au/)
+- [Documentation](https://help.redcat.com.au/)
+- [Sign up](https://www.redcatht.com/helpcentre/sign-up-with-google-facebook-and-apple)
+- [Blog](https://www.redcatht.com/en-au/resources/blog)
+- [Privacy policy](https://www.redcatht.com/en-au/about-us/privacy-policy?hsLang=en-gb)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/redcat/](https://apis.io/providers/redcat/).
